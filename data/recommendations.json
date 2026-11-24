@@ -1,0 +1,20 @@
+{
+  "creator-1": {
+    "creatorId": "creator-1",
+    "creatorName": "Mr Babs",
+    "products": [
+      {
+        "name": "VEGETABLE OIL",
+        "image": "https://raw.githubusercontent.com/muhaz-donbless/muhaz-liora/main/uploads/recommendations/creator-1-3da7478e-3e51-47a2-9442-1b6a78ac0e54-product-1.jpg",
+        "imagePath": "uploads/recommendations/creator-1-3da7478e-3e51-47a2-9442-1b6a78ac0e54-product-1.jpg"
+      },
+      {
+        "name": "SOYA OIL",
+        "image": "https://raw.githubusercontent.com/muhaz-donbless/muhaz-liora/main/uploads/recommendations/creator-1-3da7478e-3e51-47a2-9442-1b6a78ac0e54-product-2.jpg",
+        "imagePath": "uploads/recommendations/creator-1-3da7478e-3e51-47a2-9442-1b6a78ac0e54-product-2.jpg"
+      }
+    ],
+    "reward": 3856,
+    "updatedAt": "2026-11-24T11:16:43.729Z"
+  }
+}
