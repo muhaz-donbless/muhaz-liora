@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "id": "f7646d4d-7f02-4193-9c07-17693b2dc965",
+      "brandId": "chowdeck",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/prkmTZjf/IMG-4584.jpg",
+      "caption": "Order from Chowdeck Today",
+      "active": true,
+      "createdAt": "2026-11-24T11:26:41.291Z"
+    }
+  ]
+}
