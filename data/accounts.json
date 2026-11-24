@@ -8,5 +8,15 @@
     "passwordHash": "3a651589a68acab0a49aa7e669b2f63f5dd37443ee43b174544f9a517303283401d88435512c4595aae27ec0ca9ff88228ea0ff070a6950a23c09b0a8cc02691",
     "profileImage": "",
     "createdAt": "2026-11-24T10:07:57.823Z"
+  },
+  "laua@gmail.com": {
+    "fullName": "Alkahain lahav",
+    "email": "laua@gmail.com",
+    "country": "NG",
+    "phone": "08124614848",
+    "passwordSalt": "98359d53027ece006d749172c5ca3a0f",
+    "passwordHash": "227e6294c4f177e6139ab1c9fe676e610b25a044bae3a21c66fff97fb3b085ebcf15365aa0c16e371a7706bd87161bb1872b660c2bf9dfd68865d88f15461503",
+    "profileImage": "",
+    "createdAt": "2026-11-24T10:50:27.129Z"
   }
 }
