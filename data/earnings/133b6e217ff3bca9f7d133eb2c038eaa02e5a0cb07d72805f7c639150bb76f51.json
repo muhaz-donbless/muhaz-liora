@@ -1,0 +1,20 @@
+{
+  "email": "laua@gmail.com",
+  "balances": {
+    "commission": 0,
+    "leisure": 3856,
+    "video": 0,
+    "total": 3856
+  },
+  "transactions": [
+    {
+      "id": "product-recommendation-creator-1:1795519026800",
+      "type": "leisure",
+      "amount": 3856,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-24T11:17:38.674Z"
+    }
+  ],
+  "updatedAt": "2026-11-24T11:17:38.674Z"
+}
