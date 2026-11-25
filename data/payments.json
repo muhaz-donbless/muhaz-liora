@@ -1,0 +1,23 @@
+{
+  "payments": [
+    {
+      "id": "PAY-PAGA-1c725cf9d9c6ccaeb77db963",
+      "customerName": "Alkahain lahav",
+      "email": "laua@gmail.com",
+      "phone": "08124614848",
+      "amount": 10000,
+      "amountKobo": 1000000,
+      "method": "paga",
+      "reference": "lp_1795642890914_e5a0939588",
+      "provider": "movantra",
+      "status": "pending",
+      "statusTokenHash": "c69774b7e65740393c4defc62c99672ab14bf7cf542da59cbcd60704dff705dd",
+      "createdAt": "2026-11-25T21:41:32.215Z",
+      "processedAt": null,
+      "pofPass": null,
+      "pofGeneratedAt": null,
+      "pofUsed": false,
+      "pofUsedAt": null
+    }
+  ]
+}
