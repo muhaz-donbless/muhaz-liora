@@ -1,4 +1,4 @@
-const { readJSON } = require("../../github-storage");
+const { readJSON } = require("../../lib/github-storage");
 
 const FILE = "data/brand-status.json";
 
