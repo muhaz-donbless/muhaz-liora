@@ -2,6 +2,15 @@
   "version": 1,
   "posts": [
     {
+      "id": "ecbf90c4-eae5-4727-9056-fb2675fea398",
+      "brandId": "paystack",
+      "mediaType": "image",
+      "mediaUrl": "https://i.postimg.cc/T2yB944z/IMG-9109.jpg",
+      "caption": "Secure your payments with paystack",
+      "active": true,
+      "createdAt": "2026-11-26T10:29:43.561Z"
+    },
+    {
       "id": "f7646d4d-7f02-4193-9c07-17693b2dc965",
       "brandId": "chowdeck",
       "mediaType": "image",
