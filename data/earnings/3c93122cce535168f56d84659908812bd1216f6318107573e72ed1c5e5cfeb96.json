@@ -1,0 +1,20 @@
+{
+  "email": "joel88252@outlook.com",
+  "balances": {
+    "commission": 0,
+    "leisure": 0,
+    "video": 8428.11,
+    "total": 8428.11
+  },
+  "transactions": [
+    {
+      "id": "chowdeck:f7646d4d-7f02-4193-9c07-17693b2dc965",
+      "type": "video",
+      "amount": 8428.11,
+      "source": "brand-status",
+      "referenceId": "",
+      "createdAt": "2026-11-27T08:40:03.266Z"
+    }
+  ],
+  "updatedAt": "2026-11-27T08:40:03.266Z"
+}
