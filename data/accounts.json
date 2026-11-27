@@ -18,5 +18,15 @@
     "passwordHash": "227e6294c4f177e6139ab1c9fe676e610b25a044bae3a21c66fff97fb3b085ebcf15365aa0c16e371a7706bd87161bb1872b660c2bf9dfd68865d88f15461503",
     "profileImage": "",
     "createdAt": "2026-11-24T10:50:27.129Z"
+  },
+  "joel88252@outlook.com": {
+    "fullName": "John David",
+    "email": "joel88252@outlook.com",
+    "country": "NG",
+    "phone": "09136457812",
+    "passwordSalt": "5a5ffb05fb727b9ad82869ab7a90fe99",
+    "passwordHash": "7a218a7bb01b87a9046fa282271ac4b6bd8c549a39ea93de6ff6a565e71b81cd30473e72e8c17ca6bf464900e69b7c39ce23f392545a6285be9dad525e8fa2f0",
+    "profileImage": "",
+    "createdAt": "2026-11-27T08:38:56.989Z"
   }
 }
