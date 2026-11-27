@@ -2,9 +2,9 @@
   "email": "joel88252@outlook.com",
   "balances": {
     "commission": 0,
-    "leisure": 0,
+    "leisure": 3856,
     "video": 8428.11,
-    "total": 8428.11
+    "total": 12284.11
   },
   "transactions": [
     {
@@ -14,7 +14,15 @@
       "source": "brand-status",
       "referenceId": "",
       "createdAt": "2026-11-27T08:40:03.266Z"
+    },
+    {
+      "id": "product-recommendation-creator-1:1795768811481",
+      "type": "leisure",
+      "amount": 3856,
+      "source": "product-recommendation",
+      "referenceId": "",
+      "createdAt": "2026-11-27T08:48:56.882Z"
     }
   ],
-  "updatedAt": "2026-11-27T08:40:03.266Z"
+  "updatedAt": "2026-11-27T08:48:56.882Z"
 }
